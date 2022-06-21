@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const app = require('commander')
 const chalk = require('chalk')
 const clear = require('clear')
