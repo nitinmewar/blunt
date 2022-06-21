@@ -1,6 +1,6 @@
 {
   "name": "blunt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "git init after a joint",
   "main": "index.js",
   "scripts": {
